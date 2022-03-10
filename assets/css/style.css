@@ -7,6 +7,25 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-h1 {
-    color: blue;
+body {
+    background-color: #e8e8e8;
 }
+
+header {
+    background-color: #4d41c0;
+    color: #fff;
+}
+
+a, a:hover {
+    color: unset;
+    text-decoration: none;
+}
+
+.nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+
