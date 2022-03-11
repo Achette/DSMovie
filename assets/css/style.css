@@ -51,3 +51,12 @@ nav a {
   justify-content: space-between;
   flex-direction: row;
 }
+
+.dsmovie-contact-container {
+  display: flex;
+  align-items: center;
+}
+
+.dsmovie-contact-container img {
+  margin-right: 10px;
+}
