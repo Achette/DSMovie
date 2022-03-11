@@ -111,3 +111,10 @@ nav a {
   border-radius: 4px;
   bottom: 20px;
 }
+
+/*--------------- FORM ----------------*/
+
+.dsmovie-form-container {
+  padding: 40PX 0;
+  max-width: 480PX;
+}
